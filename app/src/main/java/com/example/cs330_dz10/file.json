@@ -1,0 +1,20 @@
+[
+  {
+    "receiverName": "John Doe",
+    "receiverEmail": "john.doe@example.com",
+    "countryTo": "USA",
+    "cityTo": "New York",
+    "streetTo": "123 Main St",
+    "weight": 2.5,
+    "fragile": false
+  },
+  {
+    "receiverName": "Jane Smith",
+    "receiverEmail": "jane.smith@example.com",
+    "countryTo": "Canada",
+    "cityTo": "Toronto",
+    "streetTo": "456 Elm St",
+    "weight": 1.8,
+    "fragile": true
+  }
+]
